@@ -7,8 +7,12 @@ Apples
 
 MEAT
 Salchichas
+Cerdo
+Res
+Pollo
 
 CHEESE
 Gouda
+
 
 CEREAL
